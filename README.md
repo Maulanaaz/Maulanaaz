@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Maulana 👋
 
-<!--
-**Maulanaaz/Maulanaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👦 I am a Senior High School Student
 
-Here are some ideas to get you started:
+-⭐ My goal in 2020 : Understanding about Python and R languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🌱 I’m currently learning about data science
+
+
+### Connect with me :
+[<img align="left" alt="Maulanaaz| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dataportf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
