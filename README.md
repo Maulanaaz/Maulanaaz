@@ -2,7 +2,7 @@
 
 -👦 I am a Senior High School Student
 
--⭐ My goal in 2021 : Understanding about Machine Learning (Also Maths behind it)
+-⭐ My purpose in 2022 : Understanding about Machine Learning (Also Maths behind it)
 
 -🌱 I’m currently learning about data science
 
