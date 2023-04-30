@@ -1,8 +1,8 @@
 ### Hi there, I'm Maulana 👋
 
--👦 I am a Senior High School Student
-
--⭐ My purpose in 2022 : Understanding about Machine Learning (Also Maths behind it)
+-👦 I am a first year Mathematics student at Diponegoro University
+ 
+-⭐ My purpose in 2023 : Be a better Data Enthusiast!
 
 -🌱 I’m currently learning about data science
 
@@ -10,7 +10,6 @@
 
 ### Connect with me :
 [<img align="left" alt="Maulanaaz| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dataportf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -27,4 +26,3 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/Maulanaaz
-[instagram]: https://instagram.com/dataportf
