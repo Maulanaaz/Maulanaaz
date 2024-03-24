@@ -2,9 +2,9 @@
 
 -👦 I am a second year Mathematics student at Diponegoro University
  
--⭐ My purpose in 2023 : Be a better Aspiring Data Scientist!
+-⭐ My purpose in 2024 : Be a better Aspiring Data Scientist!
 
--🌱 I’m currently learning about data science
+-🌱 I’m currently learning about Data Science and Machine Learning
 
 ---
 
