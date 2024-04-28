@@ -1,28 +1,30 @@
-### Hi there, I'm Maulana 👋
+<h1 align="center">Hello there 👋, I'm Maulana Zulfikar Aziz</h1>
+<h3 align="center">A person who passionated on Data Science and Machine Learning/Artificial Intelligence</h3>
 
--👦 I am a second year Mathematics student at Diponegoro University
- 
--⭐ My purpose in 2024 : Be a better Aspiring Data Scientist!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanaaz&label=Profile%20views&color=0e75b6&style=flat" alt="maulanaaz" /> </p>
 
--🌱 I’m currently learning about Data Science and Machine Learning
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maulanaaz" alt="maulanaaz" /></a> </p>
 
----
+- 🔭 I’m currently a **second year Mathematics student at Diponegoro University**
 
-### Connect with me :
-[<img align="left" alt="Maulanaaz| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-<br/>
-<br/>
+- 👯 I’m looking to collaborate on **Data Science or Machine Learning related projects**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Maulanaaz/ML-Project](https://github.com/Maulanaaz/ML-Project)
 
-<details>
-  <summary>:zap: Github Stats</summary>
+- 📫 How to reach me **maulanazulfikarrz@gmail.com**
 
-  
-  <img align="left" alt="Maulanaaz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Maulanaaz&show_icons=true&hide_border=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaaz&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maulanaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulanaaz" height="30" width="40" /></a>
+</p>
 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
-[linkedin]: https://www.linkedin.com/in/Maulanaaz
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanaaz&show_icons=true&locale=en&layout=compact" alt="maulanaaz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maulanaaz&show_icons=true&locale=en" alt="maulanaaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaaz&" alt="maulanaaz" /></p>
