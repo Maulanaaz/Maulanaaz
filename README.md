@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science or Machine Learning related projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maulanaaz/ML-Project](https://github.com/Maulanaaz/ML-Project)
+- 👨‍💻 All of my data science related projects are available at [https://github.com/Maulanaaz/data-science-projects](https://github.com/Maulanaaz/data-science-projects)
 
 - 📫 How to reach me **maulanazulfikarrz@gmail.com**
 
