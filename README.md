@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maulanaaz" alt="maulanaaz" /></a> </p>
 
-- 🔭 I’m currently a **second year Mathematics student at Diponegoro University**
+- 🔭 I’m currently a **third year Mathematics student at Diponegoro University**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
