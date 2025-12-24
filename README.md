@@ -43,10 +43,6 @@ Here are some of my key projects demonstrating my end-to-end data capabilities:
       <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="icon" width="65" height="65" />
       <br>Scikit-Learn
     </td>
