@@ -25,7 +25,7 @@ Here are some of my key projects demonstrating my end-to-end data capabilities:
 | **🏦 [Banking Data Warehouse & ETL](https://github.com/Maulanaaz/end-to-end-etl-pipeline-idxpartners)** | **Data Engineer** | Python, SQL Server, Snowflake Schema | Designed a robust ETL pipeline transforming raw heterogeneous data (CSV, Excel, SQL) into a structured Data Warehouse with automated Stored Procedures. |
 | **💳 [Credit Risk Scoring Model](https://github.com/Maulanaaz/score-card-model-home-credit-indonesia)** | **Data Scientist** | Python, XGBoost, SHAP, Scikit-learn | Built a predictive model to assess loan default probability, featuring comprehensive EDA, feature engineering, and model interpretability. |
 
-> 📌 Featured projects are pinned below. Other repositories are currently undergoing code refactoring and optimization
+> 📌 Other repositories are currently undergoing code refactoring and optimization.
 
 ---
 
