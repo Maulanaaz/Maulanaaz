@@ -11,7 +11,7 @@
 
 - 🎓 I’m a final-year **Mathematics Undergraduate** at **Diponegoro University**, specializing in statistical analysis and machine learning.
 - 🔭 I’m currently bridging the gap between **Data Science (Modeling)** and **Data Engineering (Pipeline Architecture)**.
-- 🌱 I’m deepening my knowledge in **Data Science, Data Engineering, and Business Intelligence**.
+- 🌱 I’m deepening my knowledge in **Data Science, Deep Learning, Data Engineering, and Business Intelligence**.
 - 💼 Open to work opportunities in **Data Science, Machine Learning Engineer, Data Analytics, and Data Engineering** intern roles.
 
 ---
