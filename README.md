@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maulana Zulfikar Aziz 👋</h1>
-<h3 align="center">Mathematics Student | Data Enthusiast</h3>
+<h3 align="center">Mathematics Student & Data Enthusiast !</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maulanaaz&label=Profile%20views&color=0e75b6&style=flat" alt="maulanaaz" />
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m a final-year **Mathematics Undergraduate** at **Diponegoro University**, specializing in statistical analysis and machine learning.
-- 🔭 I’m currently bridging the gap between **Data Science (Modeling)** and **Data Engineering (Pipeline Architecture)**.
+- 🔭 I’m currently  finalizing a thesis on **Deep Learning (LSTM) and Explainable AI (SHAP)**.
 - 🌱 I’m deepening my knowledge in **Data Science, Deep Learning, Data Engineering, and Business Intelligence**.
 - 💼 Open to work opportunities in **Data Science, Machine Learning Engineer, Data Analytics, and Data Engineering** intern roles.
 
