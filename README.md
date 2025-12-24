@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maulana Zulfikar Aziz 👋</h1>
-<h3 align="center">Mathematics Student | Data Science & Data Engineering Enthusiast</h3>
+<h3 align="center">Mathematics Student | Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maulanaaz&label=Profile%20views&color=0e75b6&style=flat" alt="maulanaaz" />
@@ -63,24 +63,8 @@ Here are some of my key projects demonstrating my end-to-end data capabilities:
 ---
 
 ### 📊 GitHub Stats
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=maulanaaz&show_icons=true&locale=en&theme=radical" alt="Maulana Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=maulanaaz&theme=radical" alt="Maulana Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanaaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulanaaz&show_icons=true&locale=en&layout=compact" alt="maulanaaz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulanaaz&" alt="maulanaaz" /></p>
 
 ---
 
