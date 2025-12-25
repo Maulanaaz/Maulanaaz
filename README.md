@@ -25,6 +25,7 @@ Here are some of my key projects demonstrating my end-to-end data capabilities:
 | **🏦 [Banking Data Warehouse & ETL](https://github.com/Maulanaaz/end-to-end-etl-pipeline-idxpartners)** | **Data Engineer** | Python, SQL Server, Snowflake Schema | Designed a robust ETL pipeline transforming raw heterogeneous data (CSV, Excel, SQL) into a structured Data Warehouse with automated Stored Procedures. |
 | **💳 [Credit Risk Scoring Model](https://github.com/Maulanaaz/score-card-model-home-credit-indonesia)** | **Data Scientist** | Python, XGBoost, Scikit-learn | Built a predictive model to assess loan default probability, featuring comprehensive EDA, feature engineering, and model interpretability. |
 | **📰 [AG News Topic Classification](https://github.com/Maulanaaz/ag-news-classification-lstm)** | **Data Scientist** | Python, TensorFlow, LSTM, NLTK | Developed a Deep Learning model using RNN-LSTM architecture to perform multi-class text classification, capturing sequential patterns in unstructured news data. |
+| **🌺 [Flower Image Classification](https://github.com/Maulanaaz/flower-classification-using-transfer-learning)** | **Machine Learning Engineer** | Python, MobileNetV2, Transfer Learning | Engineered a high-accuracy image classifier (93% Acc) using Transfer Learning and optimized the model (TF-Lite) for mobile deployment. |
 
 > 📌 Other repositories are currently undergoing code refactoring and optimization.
 
