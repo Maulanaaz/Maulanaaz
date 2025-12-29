@@ -22,6 +22,7 @@ Here are some of my key projects demonstrating my end-to-end data capabilities:
 
 | Project | Role | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
+| **📊 [Interactive Sales Performance Dashboard](https://github.com/Maulanaaz/sejahtera-bersama-sales-dashboard-analysis/tree/main)** | **Business Intelligence Analyst** | Google BigQuery, Google Looker Studio, Microsoft Access | Designed an interactive dashboard to uncover sales trends, high-value products, and strategic growth opportunities.|
 | **🏦 [Banking Data Warehouse & ETL](https://github.com/Maulanaaz/end-to-end-etl-pipeline-idxpartners)** | **Data Engineer** | Python, SQL Server, Snowflake Schema | Designed a robust ETL pipeline transforming raw heterogeneous data (CSV, Excel, SQL) into a structured Data Warehouse with automated Stored Procedures. |
 | **💳 [Credit Risk Scoring Model](https://github.com/Maulanaaz/score-card-model-home-credit-indonesia)** | **Data Scientist** | Python, XGBoost, Scikit-learn | Built a predictive model to assess loan default probability, featuring comprehensive EDA, feature engineering, and model interpretability. |
 | **📰 [AG News Topic Classification](https://github.com/Maulanaaz/ag-news-classification-lstm)** | **Data Scientist** | Python, TensorFlow, LSTM, NLTK | Developed a Deep Learning model using RNN-LSTM architecture to perform multi-class text classification, capturing sequential patterns in unstructured news data. |
