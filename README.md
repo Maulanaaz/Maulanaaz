@@ -12,7 +12,7 @@
 - 🎓 I’m a final-year **Mathematics Undergraduate** at **Diponegoro University**, specializing in statistical analysis and machine learning.
 - 🔭 I’m currently  finalizing a thesis on **Deep Learning (LSTM) and Explainable AI (SHAP)**.
 - 🌱 I’m deepening my knowledge in **Data Science, Deep Learning, Data Engineering, and Business Intelligence**.
-- 💼 Open to work opportunities in **Data Science, Machine Learning Engineer, Data Analytics, and Data Engineering** intern roles.
+- 💼 Open to work opportunities in **Data Science, Machine Learning, Business Intelligence, Data Analytics, and Data Engineering** intern roles.
 
 ---
 
